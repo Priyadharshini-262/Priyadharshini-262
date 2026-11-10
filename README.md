@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I'm Priyadharshini S!
 
-<!--
-**Priyadharshini-262/Priyadharshini-262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year B.E. Artificial Intelligence and Machine Learning Student
+🏫 St. Joseph's College of Engineering
 
-Here are some ideas to get you started:
+💻 About Me
+I'm interested in Artificial Intelligence, programming and technology.
+🌱 Currently learning C Programming and Python.
+🚀 Aspiring AI Engineer.
+📚 Passionate about learning new technologies.
+✨ Hardworking and always ready to learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills
+
+- C Programming
+- Python Basics
+- Basic Computer Science
+
+🎯 Career Goal
+
+To become a skilled AI Engineer and develop innovative applications using Artificial Intelligence and Machine Learning.
+
+🌐 Languages
+
+- Tamil
+- English
+
+📫 Connect With Me
+
+LinkedIn: "My LinkedIn Profile" (https://www.linkedin.com/in/priya-dharshini-61b841431)
+
+GitHub: You are already here! ⭐
+
+---
+
+✨ Thank you for visiting my profile! 💜
